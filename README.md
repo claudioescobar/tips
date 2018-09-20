@@ -1,2 +1,1 @@
-# Tips
-Development links, tips and more
+For Development links, tips and more access https://claudioescobar.github.io/tips/
