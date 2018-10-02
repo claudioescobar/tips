@@ -18,3 +18,4 @@ Jenkins pipeline samples = https://github.com/jenkinsci/pipeline-examples
 
 Queries on data stream - https://apacheignite.readme.io/docs/continuous-queries
 Locking with jdbcTemplate - https://medium.com/@manjulapiyumal/effective-usage-oracle-row-locking-with-spring-jdbc-for-concurrent-data-processing-without-having-9ae55e4331a6
+Particion By In Oracle - https://oracle-base.com/articles/misc/row_number-analytic-function
