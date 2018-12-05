@@ -8,6 +8,8 @@ Java curated frameworks list - https://github.com/akullpp/awesome-java
 
 Enterprise Patterns - https://github.com/helderdarocha/EIP-Course
 
+Making a portable jdk - https://bgasparotto.com/convert-jdk-exe-zip
+
 **Tools**
 
 Diagrams - http://draw.io
