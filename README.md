@@ -26,6 +26,6 @@ Locking with jdbcTemplate - https://medium.com/@manjulapiyumal/effective-usage-o
 
 Partition By In Oracle - https://oracle-base.com/articles/misc/row_number-analytic-function
 
-** Git **
+**Git**
 
 Moving directory, files and renaming - https://joshpress.net/changing-file-names-git-repository-without-loosing-file-history/
