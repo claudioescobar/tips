@@ -29,3 +29,4 @@ Partition By In Oracle - https://oracle-base.com/articles/misc/row_number-analyt
 **Git**
 
 Moving directory, files and renaming - https://joshpress.net/changing-file-names-git-repository-without-loosing-file-history/
+Reset pushed commits - http://christoph.ruegg.name/blog/git-howto-revert-a-commit-already-pushed-to-a-remote-reposit.html
