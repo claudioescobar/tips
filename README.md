@@ -10,6 +10,8 @@ Enterprise Patterns - https://github.com/helderdarocha/EIP-Course
 
 Making a portable jdk - https://bgasparotto.com/convert-jdk-exe-zip
 
+Validating large xml files - https://stackoverflow.com/questions/42809088/how-to-validate-a-xml-file-with-xsd-through-xmllint
+
 **Tools**
 
 Diagrams - http://draw.io
