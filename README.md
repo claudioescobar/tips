@@ -12,6 +12,8 @@ Making a portable jdk - https://bgasparotto.com/convert-jdk-exe-zip
 
 Validating large xml files - https://stackoverflow.com/questions/42809088/how-to-validate-a-xml-file-with-xsd-through-xmllint
 
+Microservices/Spring - https://www.quora.com/How-do-I-develop-a-microservice-with-Spring-Boot-without-using-Spring-Cloud-What-is-the-use-of-Spring-Cloud-used-in-every-microservices
+
 **Tools**
 
 Diagrams - http://draw.io
