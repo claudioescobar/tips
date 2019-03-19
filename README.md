@@ -14,6 +14,8 @@ Validating large xml files - https://stackoverflow.com/questions/42809088/how-to
 
 Microservices/Spring - https://www.quora.com/How-do-I-develop-a-microservice-with-Spring-Boot-without-using-Spring-Cloud-What-is-the-use-of-Spring-Cloud-used-in-every-microservices
 
+REST error specs - https://blog.restcase.com/rest-api-error-handling-problem-details-response/
+
 **Tools**
 
 Diagrams - http://draw.io
