@@ -16,6 +16,8 @@ Microservices/Spring - https://www.quora.com/How-do-I-develop-a-microservice-wit
 
 REST error specs - https://blog.restcase.com/rest-api-error-handling-problem-details-response/
 
+Template engines - https://www.baeldung.com/spring-template-engines
+
 **Tools**
 
 Diagrams - http://draw.io
