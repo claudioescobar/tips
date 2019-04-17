@@ -18,6 +18,8 @@ REST error specs - https://blog.restcase.com/rest-api-error-handling-problem-det
 
 Template engines - https://www.baeldung.com/spring-template-engines
 
+Actuator and embedded spring boot servers - https://www.baeldung.com/spring-boot-servlet-containers
+
 **Tools**
 
 Diagrams - http://draw.io
