@@ -22,6 +22,8 @@ Template engines - https://www.baeldung.com/spring-template-engines
 
 Actuator and embedded spring boot servers - https://www.baeldung.com/spring-boot-servlet-containers
 
+Protobuf in mac - https://support.apple.com/pt-br/guide/mac-help/mtusr001/mac
+
 **Tools**
 
 Diagrams - http://draw.io
